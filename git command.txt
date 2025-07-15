@@ -1,0 +1,5 @@
+colne-git clone arl
+remote -----gitadd
+git commit -m "any massage"
+git push
+git pull-----optionl code
